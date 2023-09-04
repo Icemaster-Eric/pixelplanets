@@ -1,1 +1,0 @@
-![Demo Gif](https://github.com/Icemaster-Eric/pixelplanets/blob/main/pixel-planet.gif)
